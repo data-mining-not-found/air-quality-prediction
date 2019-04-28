@@ -9,3 +9,6 @@ The three MinModel notebooks show the remaining Todo-list on April 28th.
 The 'Updating' folder is used to share new updates that need to be merged into the "Updated" folder.
 
 The 'Updated' folder is used to share the existing final version code.
+
+Update:
+In Updating folder, add some date time features in the "feature engineering part", but still not combined with the air quality and holiday feature.
