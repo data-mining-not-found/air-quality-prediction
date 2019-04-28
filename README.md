@@ -1,6 +1,6 @@
 # air-quality-prediction
 
-The project is a group coursework on the data mining module designed to predict air quality in London.
+The project is a group coursework on the data mining module designed to predict air quality (PM2.5, PM10, NO2 concentrations of the next 48 hours) in London.
 
 The entire folder of 'London' can refer to the sharing google drive folder, which contains all of the processed data files. (https://drive.google.com/drive/folders/1ueRCwIpzqs520pXdmIw77c9leaLDkO4y?usp=sharing)
 
