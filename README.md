@@ -11,5 +11,7 @@ The 'Updating' folder is used to share new updates that need to be merged into t
 The 'Updated' folder is used to share the existing final version code.
 
 Update:
+
 In Updating folder, add some date time features in the "feature engineering part", but still not combined with the air quality and holiday feature.
-Modeling: add xgboost model
+
+Modeling: add xgboost model,draw feature map
