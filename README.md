@@ -16,8 +16,5 @@ May 1st: Version 1.0
 
 May 5th: Version 2.0
 
-Update:
-
-In Updating folder, add some date time features in the "feature engineering part", but still not combined with the air quality and holiday feature.
-
-Modeling: add xgboost model,draw feature map
+Report:
+Report can be edited here: https://www.overleaf.com/1626912489mvktfvqwxryf
