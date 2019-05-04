@@ -6,4 +6,8 @@ The entire folder of 'London' can refer to the sharing google drive folder, whic
 
 Release note: (Compared with version 1.0)
 
-Update the preprocessing of negative value
+Update the preprocessing of negative value in the 1_preprocessing.ipynb
+
+Add some statistical features in the 2_feature_engineering.ipynb
+
+remove weather forecasting features in the 2_feature_engineering.ipynb
