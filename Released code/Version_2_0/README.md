@@ -6,18 +6,20 @@ The entire folder of 'London' can refer to the sharing google drive folder, whic
 
 Release note: (Compared with version 1.0)
 
-Update the preprocessing of negative value in the 1_preprocessing.ipynb
+Update the preprocessing of negative value in the 1_preprocessing.ipynb (Yuefu)
 
-Add 23 statistical features in the 2_feature_engineering.ipynb
+Add 23 statistical features in the 2_feature_engineering.ipynb (Yuefu)
 
-Add 4 features (PM2.5_10 etc.) in the 2_feature_engineering.ipynb
+Add 4 features (PM2.5_10 etc.) in the 2_feature_engineering.ipynb (Yuefu)
 
-Remove 64 weather forecasting features in the 2_feature_engineering.ipynb
+Add station_index feature in the 2_feature_engineering.ipynb (Yuefu)
 
-Update generating function in the 3_generate_train_data.ipynb
+Remove 64 weather forecasting features in the 2_feature_engineering.ipynb (Yuefu)
 
-Remove 48 one-hot features in the 3_generate_train_data.ipynb
+Update generating function in the 3_generate_train_data.ipynb (Yuefu)
 
-Add 156 historical and/or forecasting features in the 3_generate_train_data.ipynb
+Remove 48 one-hot features in the 3_generate_train_data.ipynb (Yuefu)
 
-Add prediction id feature in the 3_generate_train_data.ipynb
+Add 156 historical and/or forecasting features in the 3_generate_train_data.ipynb (Yuefu)
+
+Add prediction id feature in the 3_generate_train_data.ipynb (Yuefu)
