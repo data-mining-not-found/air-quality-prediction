@@ -23,3 +23,5 @@ Remove 48 one-hot features in the 3_generate_train_data.ipynb (Yuefu)
 Add 156 historical and/or forecasting features in the 3_generate_train_data.ipynb (Yuefu)
 
 Add prediction id feature in the 3_generate_train_data.ipynb (Yuefu)
+
+Update lightgbm_model error result (now updating) in the 4_lightgbm_model.ipynb (Yuefu)
