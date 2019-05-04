@@ -8,6 +8,16 @@ Release note: (Compared with version 1.0)
 
 Update the preprocessing of negative value in the 1_preprocessing.ipynb
 
-Add some statistical features in the 2_feature_engineering.ipynb
+Add 23 statistical features in the 2_feature_engineering.ipynb
 
-remove weather forecasting features in the 2_feature_engineering.ipynb
+Add 4 features (PM2.5_10 etc.) in the 2_feature_engineering.ipynb
+
+Remove 64 weather forecasting features in the 2_feature_engineering.ipynb
+
+Update generating function in the 3_generate_train_data.ipynb
+
+Remove 48 one-hot features in the 3_generate_train_data.ipynb
+
+Add 156 historical and/or forecasting features in the 3_generate_train_data.ipynb
+
+Add prediction id feature in the 3_generate_train_data.ipynb
