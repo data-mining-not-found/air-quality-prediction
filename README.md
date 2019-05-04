@@ -12,9 +12,9 @@ MileStones:
 
 April 27th: Version 0.0
 
-May 1st: Version 1.0
+May 3th: Version 1.0
 
-May 5th: Version 2.0
+May 10th: Version 2.0
 
 Report:
 Report can be edited here: https://www.overleaf.com/1626912489mvktfvqwxryf
